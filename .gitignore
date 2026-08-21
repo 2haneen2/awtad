@@ -1,0 +1,35 @@
+# IntelliJ IDEA and Android Studio
+.idea/
+*.iml
+out/
+
+# Java and Maven
+target/
+*.log
+
+# Android and Gradle
+.gradle/
+**/build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+application-local.properties
+application-local.yml
+application-secret.properties
+application-secret.yml
+
+# Firebase and signing secrets
+google-services.json
+firebase-adminsdk*.json
+*.jks
+*.keystore
+
+# Operating system files
+.DS_Store
+Thumbs.db
