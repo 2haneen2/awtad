@@ -2,8 +2,7 @@
 
 A gamified Android application that helps two friends stay consistent with their shared daily spiritual routine.
 
-> **Project status:** Product foundation and architecture design. Implementation has not started yet.
-
+> **Project status:** Product foundation and backend infrastructure are implemented. Android client and domain features have not started yet.
 ## About Awtad
 
 Awtad transforms daily spiritual routines into a cooperative journey.
